@@ -1,5 +1,5 @@
 {
-    "php": {
-        "extensions": ["pdo_mysql", "intl", "zip"]
+    "options": {
+        "phpExtensions": ["pdo_mysql", "intl", "zip"]
     }
 }
