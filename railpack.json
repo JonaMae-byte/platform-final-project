@@ -1,5 +1,8 @@
 {
     "options": {
         "phpExtensions": ["pdo_mysql", "intl", "zip"]
+    },
+    "deploy": {
+        "webRoot": "public"
     }
 }
